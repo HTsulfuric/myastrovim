@@ -12,6 +12,10 @@ return {
   { import = "astrocommunity.markdown-and-latex.markview-nvim" },
   { import = "astrocommunity.indent.indent-rainbowline" },
   { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.pack.fish" },
+  { import = "astrocommunity.pack.markdown" },
+  { import = "astrocommunity.pack.json" },
+  { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.code-runner.compiler-nvim" },
   -- import/override with your plugins folder
 }
