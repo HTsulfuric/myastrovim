@@ -8,7 +8,6 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.completion.copilot-lua-cmp" },
-  { import = "astrocommunity.markdown-and-latex.vimtex" },
   { import = "astrocommunity.markdown-and-latex.markview-nvim" },
   { import = "astrocommunity.indent.indent-rainbowline" },
   { import = "astrocommunity.pack.cpp" },
