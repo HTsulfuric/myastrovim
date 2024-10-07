@@ -16,5 +16,7 @@ return {
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.code-runner.compiler-nvim" },
+  { import = "astrocommunity.debugging.nvim-dap-virtual-text" },
+  { import = "astrocommunity.debugging.nvim-dap-repl-highlight" },
   -- import/override with your plugins folder
 }
